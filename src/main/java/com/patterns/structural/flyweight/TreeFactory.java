@@ -1,4 +1,4 @@
-package com.patterns.creational.flyweight;
+package com.patterns.structural.flyweight;
 
 import java.util.HashMap;
 

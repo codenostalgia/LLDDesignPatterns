@@ -1,4 +1,4 @@
-package com.patterns.creational.flyweight;
+package com.patterns.structural.flyweight;
 
 public interface Tree {
     void display(int x, int y);

@@ -1,4 +1,4 @@
-package com.patterns.creational.flyweight;
+package com.patterns.structural.flyweight;
 
 public class Pine implements Tree {
 
